@@ -31,6 +31,7 @@ simple example.c, Uart Receiver interrupt.c, lcd.c, lcd.h
 <img width="923" height="443" alt="image" src="https://github.com/user-attachments/assets/c0045e52-162c-44b8-9d86-a119cc8b754d" />
 
 ## PROGRAM:
+
 #include"lcd.h" 
 void ADCExp(); 
 int main(void)
