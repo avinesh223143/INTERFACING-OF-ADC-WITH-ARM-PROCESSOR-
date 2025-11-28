@@ -31,7 +31,7 @@ simple example.c, Uart Receiver interrupt.c, lcd.c, lcd.h
 <img width="923" height="443" alt="image" src="https://github.com/user-attachments/assets/c0045e52-162c-44b8-9d86-a119cc8b754d" />
 
 ## PROGRAM:
-
+```
 #include"lcd.h" 
 void ADCExp(); 
 int main(void)
@@ -44,10 +44,11 @@ while(1)
 {
 }
 }
-## OUTPUT
+```
+## OUTPUT:
 <img width="558" height="375" alt="514868596-df144fc7-d290-4c2d-8657-fda294fa5468" src="https://github.com/user-attachments/assets/3614f437-529e-478c-b8be-b22b1440c663" />
 
-## RESULTS
+## RESULTS:
 Thus, an embedded c program to interface ADC with ARM processor was executed and output was verified successfully.
 
 
